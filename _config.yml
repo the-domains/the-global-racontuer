@@ -1,0 +1,28 @@
+name: the global racontuer
+favicon: null
+layout_spectrum: 0.7670809829141945
+typography_spectrum: 0.5446801336947829
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.750584555324167
+  lightness: 0.10426258179359138
+  saturation: 0.7987881603185087
+  rhythmicContrast: 0.07441851310431957
+purpose: []
